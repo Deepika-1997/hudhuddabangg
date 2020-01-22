@@ -1,0 +1,23 @@
+body{
+	color:white;
+	background-color:#011627;
+	font-family:'sansita',sans-serif; 
+    text-align:center;
+	border:40px solid #2EC486;
+    border-top:0px;
+	margin:0px;
+	
+}
+
+form{
+	font-size:1em;
+	margin-bottom:10px;
+}
+
+#but{
+	
+	padding:10px;
+	background-color:#FF9F1C;
+	border-radius:15px;
+	
+}
